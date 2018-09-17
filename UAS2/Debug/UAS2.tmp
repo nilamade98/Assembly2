@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\fx46\Documents\Atmel Studio\7.0\UAS2\UAS2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS2\UAS2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS2\UAS2\Debug\UAS2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>UAS2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>UAS2.map</FILE>
+  <FILE>UAS2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <data><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS2\UAS2\main.asm</FILE><LINE>27</LINE></data>
+  <L1><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS2\UAS2\main.asm</FILE><LINE>16</LINE></L1>
+  <stop><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS2\UAS2\main.asm</FILE><LINE>24</LINE></stop>
+ </LABELS>
+</ASSEMBLER_INFO>
